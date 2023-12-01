@@ -164,7 +164,7 @@ const game = () => {
     const winnings = getWinnings(rows, bet, numberOfLines);
     balance += winnings;
     console.log("You won, $" + winnings.toString());
-
+ 
     if (balance <= 0) {
       console.log("You ran out of money!");
       break;
