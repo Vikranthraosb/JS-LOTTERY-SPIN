@@ -11,7 +11,7 @@
 //  Should be installed "Node.js" at first  to run javaScript
 //  Then go to terminal -> type "npm init" -> Enter through every question( No need to ans)
 //  package.json shold open -> close it for now and go to terminal again
-//  Type " npm i prompt-sync" ( This will be used to take user input)
+//  Type " npm i prompt-sync" ( This will install the prompt-sync package which allows to take user inputs)
 //  Ready to start project
 
 //  TO RUN THE PROGRAMME
